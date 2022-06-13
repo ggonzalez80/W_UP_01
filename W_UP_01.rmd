@@ -50,6 +50,12 @@ There is push-ups on the y-axis of the box plot. While there is the positions on
 
 ### Numerical Descriptive Results
 
+```{r}
+favstats(pushups~position,data=mydata)
+```
+
+
+The median (average) for both positions is way different. It appears the median for the skill position is much higher. It's higher by 33. The maximum amount of push-ups someone could do in the line position was 34. While in the skill position, it was 100 push-ups. A difference of 74 push-ups, So far, it looks like the skill position is far more capable of completing the most push-ups. To further my point, the mean for the skill position was roughly 33 more push-ups.
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
