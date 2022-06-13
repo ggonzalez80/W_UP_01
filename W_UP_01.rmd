@@ -71,3 +71,4 @@ Our p-value is 0.000009421. Our df value is 27.079. Our t value is -5.4341. Our 
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The original question was this: 'who could do the most push-ups? The SKILL position or LINE position under a specific amount of time? Our response: based off of our numerical descriptive results & our inferential results; We can see that the SKILL position can do more push-ups than the LINE position under any amount of time given. We used a box plot & a table to figure out our values & percentage. The median & average were much higher for the SKILL position.
